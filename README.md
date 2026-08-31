@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ronak Neema
 
-### AWS Certified DevOps Engineer building and automating cloud infrastructure for regulated, PCI-scoped platforms.
+### AWS Certified DevOps Engineer building and automating cloud infrastructure.
 
 - 🔭 I'm currently a DevOps Engineer at Can/Am Technologies, Denver, CO — working on AWS automation, compliance controls, and production alerting systems.
 - 🎓 I hold an MS in Computer Science from the University of Colorado, Denver.
