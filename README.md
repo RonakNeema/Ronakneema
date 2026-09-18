@@ -5,7 +5,7 @@
 - 🔭 I'm currently a DevOps Engineer at Can/Am Technologies, Denver, CO — working on AWS automation, compliance controls, and production alerting systems.
 - 🎓 I hold an MS in Computer Science from the University of Colorado, Denver.
 - 🌱 I'm currently deepening my AWS expertise toward the DevOps Engineer Professional certification.
-- 👯 I'm open to connecting with other Cloud/DevOps engineers and collaborating on infrastructure automation projects.
+-  I'm open to connecting with other Cloud/DevOps engineers and collaborating on infrastructure automation projects.
 - 📫 How to reach me: ronak.neema@ucdenver.edu
 
 ### Connect with me
